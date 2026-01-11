@@ -21,3 +21,5 @@ It is a .NET 10 feature, to use this MCP server, create `mcp.json` file under `.
 ```
 
 Now we can use GitHub Copilot and ask the question like this `Can you echo "Hello World"?` - which will prompt the Tool execution and respond like this.
+
+<img width="371" height="315" alt="image" src="https://github.com/user-attachments/assets/3cb35a31-682a-437e-aade-555d78fd68d5" />
