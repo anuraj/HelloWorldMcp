@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"file-based-mcp": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"Program.cs"
+			]
+		}
+	},
+	"inputs": []
+}
